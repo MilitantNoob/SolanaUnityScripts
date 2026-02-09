@@ -1,1 +1,1 @@
-Just Copy Paste the scripts into your game and attack the functions.
+Just Copy Paste the scripts into your game and attach the functions.
